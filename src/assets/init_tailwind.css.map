@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,cAAc;AACd,oBAAoB;AACpB,mBAAmB",
+"sources": ["init_tailwind.scss"],
+"names": [],
+"file": "init_tailwind.css"
+}
